@@ -8,3 +8,4 @@ scikit-learn
 sklearn
 xgboost
 catboost
+dill
